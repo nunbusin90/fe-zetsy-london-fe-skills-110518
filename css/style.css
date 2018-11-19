@@ -39,7 +39,9 @@ h2 {
 }
 
 .press-logo {
-    width: 224px;
-    border-style: 2px solid grey;
+    width: 180px;
+    margin: auto;
+    border: 2px solid grey;
+    display: inline-block;
 }
 
