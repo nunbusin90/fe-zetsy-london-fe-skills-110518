@@ -37,3 +37,8 @@ img.main-image {
     border: 3px solid grey;
     width: 750px;
 }
+
+.press-logo {
+    width: 224px;
+    border: 2px solid grey;
+}
