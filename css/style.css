@@ -19,7 +19,11 @@ body {
 
 /* Write all remaining styles here */
 
+.container {
+    margin: 0 10%;
+    background-color: #fff;
+}
+
 h1 {
-    text-align: center;
     color: grey;
 }
