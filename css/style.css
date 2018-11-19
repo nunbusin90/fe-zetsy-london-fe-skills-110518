@@ -44,9 +44,11 @@ h2 {
 
 .press-logo {
     width: 184px;
+    height: 117px;
     margin: auto;
     border: 2px solid grey;
     display: inline-block;
+    
 }
 
 img {
