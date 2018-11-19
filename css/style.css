@@ -48,7 +48,7 @@ h2 {
     margin: auto;
     border: 2px solid grey;
     display: inline-block;
-    box-sizing: borderbox;
+    box-sizing: border-box;
 }
 
 .press-logo:hover {
