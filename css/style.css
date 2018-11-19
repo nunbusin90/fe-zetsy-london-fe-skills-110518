@@ -33,7 +33,7 @@ h2 {
   color: grey;
 }
 
-img.main-image {
+.main-image {
     border: 3px solid grey;
     width: 750px;
 }
