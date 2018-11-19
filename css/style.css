@@ -48,7 +48,10 @@ h2 {
     margin: auto;
     border: 2px solid grey;
     display: inline-block;
-    
+}
+
+.press-logo:hover {
+  border: 4px solid black;
 }
 
 img {
