@@ -38,14 +38,18 @@ h2 {
     width: 750px;
 }
 
+.press {
+  width: 784px;
+}
+
 .press-logo {
-    width: 190px;
+    width: 184px;
     margin: auto;
     border: 2px solid grey;
     display: inline-block;
 }
 
 img {
-    width: 190px;
+    width: 184px;
 }
 
